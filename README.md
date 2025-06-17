@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, меня зовут Кирилл! 👋  
 
-<!--
-**sickxciety/sickxciety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне  
+Я студент и начинающий программист, увлеченный тестированием программ.  
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над: Программой "Стражник" 
+- 🌱 Изучаю: Python   
+- 😄 Факт обо мне: Нравятся компьютерные игры, например, CS2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Статистика GitHub  
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=sickxciety&show_icons=true&theme=black)](https://github.com/sickxciety)  
+
+## 📌 Избранные проекты  
+- [Спортивный калькулятор](https://github.com/sickxciety/Sport-Calc) — Данный проект является калькулятором для спортсменов, например рассчёт разового веса, либо рабочего. а также подсчёт каллорий. 
+
+## 🤝 Контакты  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram)](https://t.me/usdtwsp) 
+
+⭐️ От [sickxciety](https://github.com/sickxciety)
